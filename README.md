@@ -56,7 +56,7 @@ I believe in the importance of staying connected to the things that bring us joy
   - **Dragon Ball**
   - **Shingeki no Kyojin**
   - **Fullmetal Alchemist**
-  - ** Jujutsu Kaisen **
+  - **Jujutsu Kaisen**
 
   #### 🏋️‍♂️ Fitness
   I have been intrigued by pushing the limits of my mind and body for as long as I can remember.
