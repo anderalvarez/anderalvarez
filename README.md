@@ -20,3 +20,45 @@ I'm Ander Alvarez, a telecommunications engineer turned software engineer. I spe
 ### 🌐 Connect with Me
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/anderalvarez) or email me at [anderalvarez15@gmail.com](mailto:anderalvarez15@gmail.com).
+
+### More About Me
+
+I believe in the importance of staying connected to the things that bring us joy, never losing touch with our inner child. It's essential to embrace the passions that make life enjoyable, whether it’s the thrill of a new game, the excitement of a gripping book, or the satisfaction of pushing the limits in the gym. So, I also include these passions in my profile.
+
+
+<details>
+  <summary>Click to expand</summary>
+
+  #### 🎮 Gaming
+  - **Elden Lord** Beating Base Game + DLC with no summs
+  - **Main ADC** in League of Legends
+  - Member of the **Outer Wilds Ventures** 
+  - **Main Rogue** and **Mage** in World of Warcraft
+  - Level 60 Warlock in WoW Hardcore
+  - Completed **Hollow Knight** at 112%
+  - **Platinum** in Dark Souls Remastered
+  - **Platinum** in Portal 2
+  - Chess 800 ELO
+
+  #### 📚 Reading
+  - Huge fan of **Brandon Sanderson** (read all his books)
+  - Love **George Orwell's** works
+  - **The Witcher** series by Andrzej Sapkowski
+  - **The Kingkiller Chronicle** by Patrick Rothfuss 
+
+  #### 🈺 Anime & Manga
+  - **Solo Leveling**
+  - **One Piece**
+  - **Naruto**
+  - **Tower of God**
+  - **Kimetsu no Yaiba**
+  - **Death Note**
+  - **Dragon Ball**
+  - **Shingeki no Kyojin**
+  - **Fullmetal Alchemist**
+
+  #### 🏋️‍♂️ Fitness
+  I have been intrigued by pushing the limits of my mind and body for as long as I can remember.
+
+</details>
+
